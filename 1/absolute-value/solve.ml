@@ -1,0 +1,1 @@
+let f (a:int) = if a < 0 then 0 - a else a

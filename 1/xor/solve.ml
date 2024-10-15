@@ -1,0 +1,1 @@
+let xor1 : bool -> bool -> bool = fun b1 b2 -> not b1 && b2 || b1 && not b2
